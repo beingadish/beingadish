@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **I am Omnivert.**
 
+[![@beingadish's Holopin board](https://holopin.me/beingadish)](https://holopin.io/@beingadish)
+
 <img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <h3 align="left">Connect with me:</h3>
