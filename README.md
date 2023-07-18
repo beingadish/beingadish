@@ -9,17 +9,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=beingadish&label=visiters&color=orange&style=flat" alt="aadarshPandey" />
 
-- 🔭 I’m currently working on **BlockchainResearchLab App**
+- 🔭 I’m currently working on **AroundU & DIFESA**
 
-- 🌱 I’m currently learning **ML, Blockchain, Competitive Programming**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingadish](https://github.com/beingadish)
 
-- 💬 Ask me about **Flutter, C++, C, DSA**
+- 💬 Ask me about **Flutter, Firebase, C++, C, DSA**
 
 - 📫 How to reach me : **aadarshpandey.pandey@gmail.com**
 
