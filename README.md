@@ -9,17 +9,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=beingadish&label=visiters&color=orange&style=flat" alt="aadarshPandey" />
 
-- 🔭 I’m currently working on **AroundU & DIFESA**
+- 🔭 I’m currently working on **AroundU Backend**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Spring Boot Microservices**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects & Spring Boot**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **System Design Thinking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingadish](https://github.com/beingadish)
 
-- 💬 Ask me about **Flutter, Firebase, C++, C, DSA**
+- 💬 Ask me about **Java, Spring Boot, LLD, HLD, Flutter, Firebase, C++, DSA**
 
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
 
@@ -50,11 +50,7 @@
 ![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=beingadish&theme=highcontrast&hide_border=true)<br/>
 ![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-[![Aadarsh Pandey's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beingadish&theme=xcode&hide_border=true)<br/>](https://github.com/beingadish)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beingadish&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/beingadish) 
   
