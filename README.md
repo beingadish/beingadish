@@ -1,52 +1,95 @@
-
 <h1 align="center">Hi 👋, I'm Aadarsh Pandey</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=A+passionate+Software+Engineer+from+India+😊">
-<!-- <p align="left"> <a href="https://twitter.com/beingaadish" target="blank"><img src="https://img.shields.io/twitter/follow/beingaadish?logo=twitter&style=for-the-badge" alt="beingaadish" /></a> </p> -->
-<img src="https://komarev.com/ghpvc/?username=beingadish&label=visiters&color=orange&style=flat" alt="aadarshPandey" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Delius&color=F07C3D&center=true&vCenter=true&width=500&lines=A+passionate+Software+Engineer+from+India+😊" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beingadish&label=Profile%20Views&color=orange&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 - 🔭 I’m currently working on **AroundU Backend**
-
 - 🌱 I’m currently learning **Spring Boot Microservices & Golang**
-
-- 👯 I’m looking to collaborate on **Flutter Projects & Spring Boot & Go**
-
+- 👯 I’m looking to collaborate on **Flutter Projects, Spring Boot, & Go**
 - 🤝 I’m looking for help with **System Design Thinking**
-
-- 👨‍💻 All of my projects are available at [https://github.com/beingadish](https://github.com/beingadish)
-
+- 👨‍💻 Check out my projects: [GitHub](https://github.com/beingadish)
 - 💬 Ask me about **Golang, Java, Spring Boot, LLD, HLD, Flutter, Firebase, C++, DSA**
-
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
+- ⚡ Fun fact: **I am Omnivert.**
 
-- ⚡ Fun fact **I am Omnivert.**
+---
 
-[![@beingadish's Holopin board](https://holopin.me/beingadish)](https://holopin.io/@beingadish)
-<!-- <center><a href="https://cloud.appwrite.io/card/64ec5bff433d935f012a">
-	<img width="500px" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64ec5bff433d935f012a" alt="Appwrite Cloud Card" />
-</a></center> -->
-
-<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/beingaadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beingaadish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beingadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingadish" height="30" width="40" /></a>
-<a href="https://instagram.com/beingadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingadish" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/beingadish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beingadish" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aadarshpandey_p1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beingadish" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/beingadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beingadish" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/beingadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beingadish" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/beingadish/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="beingadish/profile" height="30" width="40" /></a> -->
+  <a href="https://twitter.com/beingaadish" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/beingadish" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/beingadish" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
 </p>
+
+---
+
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" />
+  </a>
+	<a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  </a>
+	<a href="https://spring.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+  </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  </a>
+<a href="https://dart.dev" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+  </a>
+	<a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  </a>
+</p>
 
-# 📊GitHub Stats :
-![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)
-![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=beingadish&theme=highcontrast&hide_border=true)
-![Aadarsh Pandey's GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+---
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beingadish&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-  
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingadish&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beingadish&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
