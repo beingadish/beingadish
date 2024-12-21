@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 
 <h1 align="center">Hi 👋, I'm Aadarsh Pandey</h1>
 
@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **AroundU Backend**
 
-- 🌱 I’m currently learning **Spring Boot Microservices**
+- 🌱 I’m currently learning **Spring Boot Microservices & Golang**
 
-- 👯 I’m looking to collaborate on **Flutter Projects & Spring Boot**
+- 👯 I’m looking to collaborate on **Flutter Projects & Spring Boot & Go**
 
 - 🤝 I’m looking for help with **System Design Thinking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingadish](https://github.com/beingadish)
 
-- 💬 Ask me about **Java, Spring Boot, LLD, HLD, Flutter, Firebase, C++, DSA**
+- 💬 Ask me about **Golang, Java, Spring Boot, LLD, HLD, Flutter, Firebase, C++, DSA**
 
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
 
