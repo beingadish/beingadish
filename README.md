@@ -1,4 +1,3 @@
-# About Me :
 
 <h1 align="center">Hi 👋, I'm Aadarsh Pandey</h1>
 
