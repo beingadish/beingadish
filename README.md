@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aadarsh Pandey</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=A+passionate+Flutter+developer+from+India+😊">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=A+passionate+Software+Engineer+from+India+😊">
 
 
 <p align="left"> <a href="https://twitter.com/beingaadish" target="blank"><img src="https://img.shields.io/twitter/follow/beingaadish?logo=twitter&style=for-the-badge" alt="beingaadish" /></a> </p>
