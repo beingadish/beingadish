@@ -10,12 +10,15 @@
 
 ---
 
-- 🔭 I’m currently working on **AroundU Backend**
-- 🌱 I’m currently learning **Spring Boot Microservices & Golang**
-- 👯 I’m looking to collaborate on **Flutter Projects, Spring Boot, & Go**
+- 🔭 I’m currently working on **AroundU Application**
+- 🌱 I’m currently learning **Golang & Langchain, Agentic AI Engineering**
+- 👯 I’m looking to collaborate on **Flutter Projects, Spring Boot, Go & Agentic AI Systems**
 - 🤝 I’m looking for help with **System Design Thinking**
 - 👨‍💻 Check out my projects: [GitHub](https://github.com/beingadish)
-- 💬 Ask me about **Golang, Java, Spring Boot, LLD, HLD, Flutter, Firebase, C++, DSA**
+- ✍🏻 Check out my articles: [Medium](https://medium.com/@beingadish)
+- 🧑🏻‍💼 Check out my profile: [LinkedIn](https://linkedin.com/in/beingadish)
+- 👨🏻‍💻 Check out my Problem Solving Profile: [Leetcode](https://leetcode.com/u/ax777x)
+- 💬 Ask me about **LLMs, AgenticAI, Golang, Java, Spring Boot, LLD, HLD, Flutter, C++, DSA**
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
 - ⚡ Fun fact: **I am Omnivert.**
 
