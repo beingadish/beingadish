@@ -104,7 +104,7 @@
 ## 📐 Activity Graph
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61098642" target="_blank" style="display: block" align="center" width="100%">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="780" height="auto">
-    <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="780" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
