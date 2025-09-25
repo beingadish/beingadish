@@ -83,16 +83,28 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingadish&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+	-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%" />
 </p>
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beingadish&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+# 📊 Leetcode Stats:
+
+<img src="https://leetcard.jacoblin.cool/ax777x?theme=dark&font=Open%20Sans&ext=heatmap" width="100%">
+
+<!--
+![](https://leetcard.jacoblin.cool/ax777x?ext=contest&width=600&border=0&radius=20&height=100)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ax777x&size=small) <br>
+-->
+
+
+## 📐 Activity Graph
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61098642" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
