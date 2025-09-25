@@ -77,15 +77,15 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   </a>
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <a href="https://www.python.langchain.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/parrot.png" alt="Lang" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/chain.png" alt="Chain" width="40"/>
+    <br>
+    <sub><b>LangChain</b></sub>
+  </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-
-</p>
-
 ---
 
 # 📊 Stats:
@@ -104,7 +104,7 @@
 ## 📐 Activity Graph
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61098642" target="_blank" style="display: block" align="center" width="100%">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="100%" height="auto">
+    <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="100%" height="auto">
   </picture>
 </a>
