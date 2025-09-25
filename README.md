@@ -83,17 +83,17 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br />
-	-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+
 </p>
 
 ---
 
-# 📊 Leetcode Stats:
+# 📊 Stats:
 
-<img src="https://leetcard.jacoblin.cool/ax777x?theme=dark&font=Open%20Sans&ext=heatmap" width="100%">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ax777x?theme=dark&font=Open%20Sans&ext=heatmap" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingadish&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</div>
 
 <!--
 ![](https://leetcard.jacoblin.cool/ax777x?ext=contest&width=600&border=0&radius=20&height=100)
@@ -102,7 +102,7 @@
 
 
 ## 📐 Activity Graph
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61098642" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61098642" target="_blank" style="display: block" align="center" width="100%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @beingadish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61098642&image_size=auto&color_scheme=light" width="771" height="auto">
