@@ -20,7 +20,7 @@
 - 👨🏻‍💻 Check out my Problem Solving Profile: [Leetcode](https://leetcode.com/u/ax777x)
 - 💬 Ask me about **LLMs, AgenticAI, Golang, Java, Spring Boot, LLD, HLD, Flutter, C++, DSA**
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
-- ⚡ Fun fact: **I am Omnivert.**
+- ⚡ Fun fact: **I am Ambivert.**
 
 ---
 
