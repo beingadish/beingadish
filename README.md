@@ -17,7 +17,7 @@
 - 👨‍💻 Check out my projects: [GitHub](https://github.com/beingadish)
 - ✍🏻 Check out my articles: [Medium](https://medium.com/@beingadish)
 - 🧑🏻‍💼 Check out my profile: [LinkedIn](https://linkedin.com/in/beingadish)
-- 👨🏻‍💻 Check out my Problem Solving Profile: [Leetcode](https://leetcode.com/u/ax777x)
+- 👨🏻‍💻 Check out my Problem Solving Profile: [Leetcode](https://leetcode.com/u/ax777x), [takeUForward](https://takeuforward.org/profile/beingadish)
 - 💬 Ask me about **LLMs, AgenticAI, Golang, Java, Spring Boot, LLD, HLD, Flutter, C++, DSA**
 - 📫 How to reach me: **aadarshpandey.pandey@gmail.com**
 - ⚡ Fun fact: **I am Ambivert.**
