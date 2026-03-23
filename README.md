@@ -33,7 +33,7 @@
 name: Aadarsh Pandey
 location: Bengaluru, India
 role: Associate Software Engineer @ Accenture
-education: B.Tech (CSE) — GL Bajaj Institute of Technology & Management
+education: B.Tech (CS) — Ajay Kumar Garg Engineering College, Ghaziabad
 
 currently_building:
   - AroundU — Hyper-local freelancing platform
@@ -482,11 +482,13 @@ I write deep dives on **backend engineering**, **system design**, and **distribu
 </div>
 
 ---
-
+<!-- PROFILE SUMMARY CARDS -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingadish&theme=github_dark" />
 <div align="center">
 
-<!-- TROPHY -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=beingadish&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beingadish&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beingadish&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beingadish&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
