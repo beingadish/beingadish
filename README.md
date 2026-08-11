@@ -87,7 +87,7 @@ fun_fact: "I'm an ambivert who writes rate limiters on weekends for fun."
 **Associate Software Engineer** &nbsp;•&nbsp; Oct 2024 – May 2026  
 `Bengaluru, India`
 
-- Built & improved **Java Spring Boot REST APIs** processing **100,000+ daily transit transactions** across 10+ agencies
+- Built & improved **Java Spring Boot REST APIs** processing **1M+ daily transit transactions** across 10+ agencies
 - Reduced payment API latency by **35%** using Redis caching, indexing & query tuning
 - Delivered Android UI features in **Java/Kotlin** with MVVM architecture and Retrofit integrations
 - Debugged NFC readers, QR scanners & thermal printers with **99%+ transaction success rate**
