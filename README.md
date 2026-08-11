@@ -32,7 +32,7 @@
 ```yaml
 name: Aadarsh Pandey
 location: Bengaluru, India
-role: Associate Software Engineer @ Accenture
+role: Software Engineer @ Accenture
 education: B.Tech (CS) — Ajay Kumar Garg Engineering College, Ghaziabad
 
 currently_building:
@@ -62,13 +62,29 @@ fun_fact: "I'm an ambivert who writes rate limiters on weekends for fun."
 ## 💼 &nbsp;Experience
 
 <table>
+  <tr>
+<td width="120" align="center">
+<img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
+</td>
+<td>
+
+**Software Engineer** &nbsp;•&nbsp; June 2026 – Present  
+`Bengaluru, India`
+
+- Working on a large-scale fleet telemetry consumption and processing system, drawing insights from large-scale machinery made by the world's largest producer of heavy mining and construction equipment.
+- Tech Stack: IoT and telematics platform, contributing to backend and cloud development across Java, Spring Boot, MQTT, AWS IoT Core, Lambda, Kinesis, DynamoDB, ECS Fargate, SQS/SNS, CloudFormation, and Snowflake.
+- My work focuses on building resilient telemetry systems that handle intermittent connectivity, retries, idempotency, duplicate/out-of-order events, data validation, and observability.
+
+</td>
+</tr>
+
 <tr>
 <td width="120" align="center">
 <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
 </td>
 <td>
 
-**Associate Software Engineer** &nbsp;•&nbsp; Oct 2024 – Present  
+**Associate Software Engineer** &nbsp;•&nbsp; Oct 2024 – May 2026  
 `Bengaluru, India`
 
 - Built & improved **Java Spring Boot REST APIs** processing **100,000+ daily transit transactions** across 10+ agencies
